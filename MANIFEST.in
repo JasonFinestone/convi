@@ -1,0 +1,3 @@
+recursive-include convi/static *
+recursive-include convi/templates *
+
